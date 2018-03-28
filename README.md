@@ -5,14 +5,8 @@ Simple template to be run after `rails new MY_APP` (tested on 5.1.5) to setup a 
 ### Using it
 
 ```
-rails new --database postgresql --webpack --skip-coffee -m ~/code/caioertai/haml_sass_materialize/haml_materialize_template.rb template-test
+rails new --database postgresql --webpack --skip-coffee -m https://raw.githubusercontent.com/caioertai/haml-sass-materialize/master/haml_materialize_template.rb YOUR_APP_NAME
 ```
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Authors
 
