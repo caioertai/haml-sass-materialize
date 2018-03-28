@@ -1,6 +1,6 @@
 # HAML SASS Materialize Rails Template
 
-Simple template to be run after `rails new MY_APP` (tested on 5.1.5) to setup a rails app that runs on HAML, SASS and uses materialize.
+Simple template to build rails apps that run on [HAML](http://haml.info/), [SASS](https://sass-lang.com/) and [MaterializeCSS](http://materializecss.com/).
 
 ### Using it
 
